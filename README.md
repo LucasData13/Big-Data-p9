@@ -1,5 +1,7 @@
 # Big-Data-p9
 
+![Description big data](big_data.JPG)
+
 ### Contexte du projet de formation professionnalisant :
 
 En tant que Data Scientist chez "Fruits!", l'objectif est de développer la première chaîne de traitement des données images pour une application mobile de reconnaissance de fruits, permettant aux utilisateurs de photographier un fruit et d'obtenir des informations détaillées à son sujet. Ce projet vise à sensibiliser le public à la biodiversité des fruits et à établir un moteur de classification d'images. Le dimensionnement des instance AWS EMR devra prendre en compte l'augmentation rapide des volumes de données.
